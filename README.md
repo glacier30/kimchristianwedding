@@ -1,2 +1,2 @@
 # kimchristianwedding
-sample weddding website
+sample wedding website
